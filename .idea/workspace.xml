@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9fe730a-e673-49f8-b3f4-b12728ad0977" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QMoKzHinoAc6kdwsP4lDP0U4Nm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BattleShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BattleShip" />
+      <module name="BattleShip" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BattleShip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9fe730a-e673-49f8-b3f4-b12728ad0977" name="Default Changelist" comment="" />
+      <created>1563959478805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563959478805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1807" height="762" key="GridCell.Tab.0.bottom" timestamp="1585833376215">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="762" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585833376215" />
+    <state width="1807" height="762" key="GridCell.Tab.0.center" timestamp="1585833376214">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="762" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585833376214" />
+    <state width="1807" height="762" key="GridCell.Tab.0.left" timestamp="1585833376214">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="762" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585833376214" />
+    <state width="1807" height="762" key="GridCell.Tab.0.right" timestamp="1585833376215">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="762" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585833376215" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1577356832350">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577356832350" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1577356832350">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577356832350" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1577356832349">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577356832349" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1577356832350">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577356832350" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585833299186">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585833299186" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BattleShip.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
